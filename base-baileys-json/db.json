@@ -1,0 +1,29 @@
+[
+  {
+    "ref": "ans_06747d88-d0e4-4538-98ac-06ee30d808e6",
+    "keyword": "key_d2183324-544f-4dc2-babb-a94a449ff96b",
+    "answer": "Hola, ¿en qué puedo ayudarte?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "ba39c44edfdca2eb96658b1f52dade48",
+    "from": "5493517649012"
+  },
+  {
+    "ref": "8ca36ae5-e28f-4d01-bc37-fc0da5b44613",
+    "keyword": "ba39c44edfdca2eb96658b1f52dade48",
+    "answer": "Lomito",
+    "options": {},
+    "from": "5493517649012",
+    "refSerialize": "d8b7d8ccaea92c2f2d61a34841acd75e"
+  }
+]
